@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Computer Programming<br>I'm currently learning React JS
+I'm currently studying Computer Programming<br>I'm currently learning React JS & Nodejs
 
 
 ## 🌐 Socials:
